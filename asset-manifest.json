@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cubicappweb/static/css/main.a617e044.chunk.css",
+    "main.js": "/cubicappweb/static/js/main.1fd975a3.chunk.js",
+    "main.js.map": "/cubicappweb/static/js/main.1fd975a3.chunk.js.map",
+    "runtime-main.js": "/cubicappweb/static/js/runtime-main.234cf76e.js",
+    "runtime-main.js.map": "/cubicappweb/static/js/runtime-main.234cf76e.js.map",
+    "static/js/2.6b37a474.chunk.js": "/cubicappweb/static/js/2.6b37a474.chunk.js",
+    "static/js/2.6b37a474.chunk.js.map": "/cubicappweb/static/js/2.6b37a474.chunk.js.map",
+    "static/js/3.e0ef091b.chunk.js": "/cubicappweb/static/js/3.e0ef091b.chunk.js",
+    "static/js/3.e0ef091b.chunk.js.map": "/cubicappweb/static/js/3.e0ef091b.chunk.js.map",
+    "index.html": "/cubicappweb/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/cubicappweb/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.6b37a474.chunk.js.LICENSE.txt": "/cubicappweb/static/js/2.6b37a474.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cubicappweb/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.234cf76e.js",
+    "static/js/2.6b37a474.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.1fd975a3.chunk.js"
+  ]
+}
