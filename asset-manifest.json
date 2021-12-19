@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cubicappweb/static/css/main.a617e044.chunk.css",
-    "main.js": "/cubicappweb/static/js/main.f8735013.chunk.js",
-    "main.js.map": "/cubicappweb/static/js/main.f8735013.chunk.js.map",
+    "main.js": "/cubicappweb/static/js/main.25ebb531.chunk.js",
+    "main.js.map": "/cubicappweb/static/js/main.25ebb531.chunk.js.map",
     "runtime-main.js": "/cubicappweb/static/js/runtime-main.d5e2cc8c.js",
     "runtime-main.js.map": "/cubicappweb/static/js/runtime-main.d5e2cc8c.js.map",
     "static/js/2.3f483962.chunk.js": "/cubicappweb/static/js/2.3f483962.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d5e2cc8c.js",
     "static/js/2.3f483962.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.f8735013.chunk.js"
+    "static/js/main.25ebb531.chunk.js"
   ]
 }
